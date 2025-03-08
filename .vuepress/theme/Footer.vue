@@ -39,7 +39,7 @@
                         <small>
                             created by
                             <b-link class="text-warning" href="https://tokencenter.github.io/bep20-generator/#" target="_blank">
-                                Vittorio Minacori
+                                tokencenter
                             </b-link>
                         </small>
                     </b-list-group-item>
