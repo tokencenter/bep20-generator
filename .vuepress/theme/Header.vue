@@ -15,7 +15,7 @@
             <b-navbar-nav class="ml-auto">
                 <b-nav-item to="/" :active="page === 'Home'">Home</b-nav-item>
                 <b-nav-item to="/docs/" :active="page === 'Docs'">Docs</b-nav-item>
-                <b-nav-item target="_blank" href="https://medium.com/erc20generator"><small>Blog</small></b-nav-item>
+                <b-nav-item target="_blank" href="https://medium.com/@ethtokencenter/how-to-create-bep20-token-bep20-token-create-tool-6dea8f8b4a37"><small>Blog</small></b-nav-item>
             </b-navbar-nav>
 
         </b-collapse>
